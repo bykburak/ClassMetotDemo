@@ -18,7 +18,6 @@ namespace HomeWorkMyDictonary
                 Console.WriteLine("Müşteri Numarası: " +  customers.keys[i] + "\n" + "Müşteri Adı: " + customers.values[i] + "\n" + "**************");
             }
 
-            Console.WriteLine("Hello World!");
         }
     }
 }
